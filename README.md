@@ -27,14 +27,7 @@ AI Trip Planner is an agentic workflow-based application that leverages LLMs and
 **Extensibility:**  
 The modular design allows for easy addition of new tools or integration with other APIs.
 
-** List of commands used:
-
-```uv --version
-```
-
-
-```import shutil
-print(shutil.which("uv"))```
+** List of commands used: **
 
 ```pip install uv```
 
