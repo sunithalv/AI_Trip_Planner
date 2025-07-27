@@ -44,14 +44,13 @@ The modular design allows for easy addition of new tools or integration with oth
 ```uv venv env --python cpython-3.10.18-windows-x86_64-none```
 
 ```uv add pandas```
-
-#if you have conda then first deactivate that
+** If you have conda then first deactivate that **
 ```conda deactivate```
 
 ```uv venv env --python cpython-3.10.18-windows-x86_64-none```
 
 ## use this command from your virtual env
-```C:\Users\sunny\AI_Trip_Planner\env\Scripts\activate.bat```
+``` env\Scripts\activate.bat```
 
 
 ```
